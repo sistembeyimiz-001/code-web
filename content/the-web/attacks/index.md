@@ -5,11 +5,6 @@ index: 15
 tags:
   - the-web
 ---
-# Attacks
-
-
-
-## Introduction
 
 - techniques to exploit vulnerabilities in websites
 

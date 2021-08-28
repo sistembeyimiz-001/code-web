@@ -5,13 +5,8 @@ index: 11
 tags:
   - the-web
 ---
-# HTTP authentication
 
 <!-- ToDo: finish -->
-
-
-
-## Introduction
 
 - ???
 don't do manually, best practices continually evolve
